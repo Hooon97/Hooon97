@@ -1,12 +1,17 @@
 ### Hi there 👋
+<p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHooon97&count_bg=%2379C83D&title_bg=%23555555&icon=postman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p>
 
-- 🔭 I’m currently working on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on SSAFY, project on BE
+- 📫 How to reach me: ehgns017@gmail.com
+
 
 ## 김도훈 Dohoon Kim
+<p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmovingyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017)](https://solved.ac/ehgns017)
-
+<p>
 ### 👨‍💼 About Hoon
 
 ---
