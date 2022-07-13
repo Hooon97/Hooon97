@@ -1,17 +1,14 @@
 ### Hi there 👋
-<p>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHooon97&count_bg=%2379C83D&title_bg=%23555555&icon=postman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p>
 
-- 🔭 I’m currently working on SSAFY, project on BE
+- 🔭 I’m currently working on SSAFY, project in BE
 - 📫 How to reach me: ehgns017@gmail.com
 
 
 ## 김도훈 Dohoon Kim
-<p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmovingyun&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br/>
-[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017)](https://solved.ac/ehgns017)
-<p>
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
+
 ### 👨‍💼 About Hoon
 
 ---
@@ -39,7 +36,7 @@
 ### 🌱 Tech-Stack
 
 ---
-<p>
+<p>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -51,5 +48,8 @@
   <br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
-</p>
+<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hooon97&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hooon97&layout=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
