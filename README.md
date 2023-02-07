@@ -3,7 +3,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
 - 🔭 Junior Backend Developer
 - 📫 How to reach me: ehgns017@gmail.com
-
+- 📑 You can check my resume & portfolio in [HERE📑](https://ssafy7seoul.notion.site/c12eb51ac8694ec699f551e3bfd32f4c)
 
 ## 김도훈 Dohoon Kim
 
@@ -13,7 +13,7 @@
 
 * 2015.03 - 2022.01 : Kyun-Hee Univ. Biomedical Engineering
 * 2022.01 ~ 2022.12 : Samsung Software Academy For Youth(SSAFY) 7th
-* 2023.01 ~ 2023.02: (Shinhan Investment Copr) Digital Pro Academy Teaching Assistant(Vue, Django)
+* 2023.01 ~ 2023.02: (Shinhan Investment Corp) Digital Pro Academy Teaching Assistant(Vue, Django)
 
 
 ### 🎞 Why developer?
