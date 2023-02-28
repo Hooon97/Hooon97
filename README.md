@@ -11,17 +11,17 @@
 
 ---
 
-* 2015.03 - 2022.01 : Kyun-Hee Univ. Biomedical Engineering
+* 2015.03 - 2022.01 : KyungHee Univ. Biomedical Engineering
 * 2022.01 ~ 2022.12 : Samsung Software Academy For Youth(SSAFY) 7th
 * 2023.01 ~ 2023.02: (Shinhan Investment Corp) Digital Pro Academy Teaching Assistant(Vue, Django)
 
 
-### 🎞 Why developer?
+### 🎞 Why software developer?
 
 ---
 
 * Growth Potential
-* Straight Field
+* Powerful tool
 
 
 ### 🌱 Tech-Stack
