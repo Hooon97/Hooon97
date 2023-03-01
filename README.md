@@ -3,7 +3,8 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
 - 🔭 Junior Backend Developer
 - 📫 How to reach me: ehgns017@gmail.com
-- 📑 You can check my resume & portfolio in [HERE📑](https://ssafy7seoul.notion.site/c12eb51ac8694ec699f551e3bfd32f4c)
+- 📑 You can check my resume & portfolio in [(KOR)HERE📑](https://ssafy7seoul.notion.site/c12eb51ac8694ec699f551e3bfd32f4c)
+- 📑 You can check my resume & portfolio in [(ENG)HERE📑](https://www.notion.so/ssafy7seoul/Dohoon-Kim-7f4893dd061c4e35981d6ed1def4476b?pvs=4)
 
 ## 김도훈 Dohoon Kim
 
