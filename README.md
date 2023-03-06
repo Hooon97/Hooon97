@@ -1,7 +1,7 @@
 ### Welcome! Dohoon's GitHub. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHooon97&count_bg=%2379C83D&title_bg=%23555555&icon=postman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
-- 🔭 Junior Backend Developer
+- 🔭 Junior Backend Developer(Java, SpringBoot)
 - 📫 How to reach me: ehgns017@gmail.com
 - 📑 이력서와 포트폴리오를 볼 수 있습니다. [(KOR)HERE📑](https://ssafy7seoul.notion.site/c12eb51ac8694ec699f551e3bfd32f4c)
 - 📑 You can check my resume & portfolio in [(ENG)HERE📑](https://www.notion.so/ssafy7seoul/Dohoon-Kim-7f4893dd061c4e35981d6ed1def4476b?pvs=4)
