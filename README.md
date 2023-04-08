@@ -17,12 +17,13 @@
 * 2015.03 - 2022.01 : KyungHee Univ. Biomedical Engineering
 
 
-### 🎞 Why software developer?
+### 🎞 Key Values
 
 ---
+1. Professional Growth
+2. 
+3. Influence
 
-* Growth Potential
-* Powerful tool
 
 
 ### 🌱 Tech-Stack
