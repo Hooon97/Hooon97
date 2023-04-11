@@ -8,22 +8,13 @@
 
 ## 김도훈 Dohoon Kim
 
-### 👨‍💼 About Hoon
+### 👨‍💼 History
 
 ---
 * 2023.04 ~ current : Kakao Tech Campus 1기 백엔드 실습 코치(Java, Spring)
 * 2023.01 ~ 2023.02: (Shinhan Investment Corp) Digital Pro Academy 실습 코치(Vue, Django)
 * 2022.01 ~ 2022.12 : Samsung Software Academy For Youth(SSAFY) 7th
 * 2015.03 - 2022.01 : KyungHee Univ. Biomedical Engineering
-
-
-### 🎞 Key Values
-
----
-1. Professional Growth
-2. 
-3. Influence
-
 
 
 ### 🌱 Tech-Stack
