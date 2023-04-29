@@ -20,19 +20,23 @@
 ### 🌱 Tech-Stack
 
 ---
+#### Strong
 <p>  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-
-  <br/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">  
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo&logo=flutter&logoColor=white">
+  <br/>
+</p>
+
+#### knowledgeable
+<p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <br/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=socket.io&logoColor=white">
   </br>
-<p>
+</p>
