@@ -11,7 +11,7 @@
 ### 👨‍💼 History
 
 ---
-* 2023.07 ~ current : Good Neighbors International IT운영팀
+* 2023.07 ~ current : 사단법인 굿네이버스 인터네셔널 IT 운영팀
 * 2023.04 ~ 2023.06 : Kakao Tech Campus 1기 백엔드 실습 코치(Java, Spring)
 * 2023.01 ~ 2023.02 : 신한 투자 증권 Digital Pro Academy 실습 코치(Vue, Django)
 * 2022.01 ~ 2022.12 : Samsung Software Academy For Youth(SSAFY) 7th
