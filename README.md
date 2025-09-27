@@ -1,7 +1,9 @@
 ### Welcome! Dohoon's GitHub. 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHooon97&count_bg=%2379C83D&title_bg=%23555555&icon=postman.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
-- 🔭 Backend(Java, SpringBoot) Frontend(Javascript, Ajax, Vue.js) DB(MS-SQL, MariaDB, Tibero)
+- 🔭 Backend(Java, SpringBoot) 
+Frontend(Javascript, Ajax, Vue.js) 
+DB(MS-SQL, MariaDB, Tibero)
 - Mission-Driven Developer
 - 📫 How to reach me: ehgns017@gmail.com
 
@@ -16,7 +18,7 @@
 ### ✍️ Education
 
 ---
-* 2025.05 ~ 2025.07 : [NIPA-Google ML BootCamp](https://goor.me/PW5rc)
+* 2025.05 ~ 2025.07 : NIPA-Google ML BootCamp(120h)
 * 2022.01 ~ 2022.12 : Samsung Software Academy For Youth(SSAFY) 7th
 * 2015.03 ~ 2022.01 : KyungHee Univ. Biomedical Engineering
 
