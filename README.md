@@ -1,16 +1,17 @@
 ### Welcome! Dohoon's GitHub. 👋
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
-- 📫 How to reach me: ehgns017@gmail.com
+📫 How to reach me: ehgns017@gmail.com
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
 ## 김도훈 Dohoon Kim
 
 ### 👨‍💼 History
 
 ---
 GoodNeighbors International
-* 
-* (2025 ~ 2026) : Child Management System, Translation System
-* (2023 ~ 2024) : CRM
+* (2025 ~ 2026) : Child Management System, Translation System Maintenance
+  * Translation System Imporvement Project(2026 ~ ongoing)
+  * Child Management Renwal Project(2024)
+* (2023 ~ 2024) : CRM Maintenance
 
 ### Languages, Stacks
 * Java, SQL, Javascript
