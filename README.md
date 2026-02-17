@@ -1,13 +1,8 @@
-## Welcome! Dohoon's GitHub. 👋
+## Welcome! Dohoon's GitHub. 김도훈 Dohoon Kim 👋
 📫 How to reach me: ehgns017@gmail.com
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
-## 김도훈 Dohoon Kim
-
-### 👨‍💼 History
-
----
-GoodNeighbors International
+## 👨‍💼 History
+### GoodNeighbors International
 * (2025 ~ 2026) : Child Management System, Translation System Maintenance
   * Translation System Imporvement Project(2026 ~ ongoing)
   * Child Management Renwal Project(2024)
