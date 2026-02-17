@@ -1,4 +1,4 @@
-### Welcome! Dohoon's GitHub. 👋
+## Welcome! Dohoon's GitHub. 👋
 📫 How to reach me: ehgns017@gmail.com
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehgns017">
@@ -17,6 +17,10 @@ GoodNeighbors International
 * Java, SQL, Javascript
 * Spring, Vue3.js
 * AWS, Git
+
+### Certifications
+* Engineer Information Processing
+* GCP Professional Cloud Architect
 
 ### ✍️ Education
 
